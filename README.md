@@ -23,13 +23,13 @@ I am a BackEnd Developer from Chiapas.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Post"  alt="Post" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
   
 ---
 
 ### :bar_chart: My Stats: :chart_with_upwards_trend:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=203722&show_icons=true&theme=synthwave" alt="203722 :: Profile Stats" /></p>
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
   
 ### :bar_chart: Top Langs: :tongue:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=203722&langs_count=10&theme=tokyonight&layout=compact" alt="203722 :: Top Langs" /></p>
