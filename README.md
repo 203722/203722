@@ -1,9 +1,4 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://twitter.com/el_talla10">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
   <h1>
     HELLO WORLD!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
