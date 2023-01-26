@@ -24,9 +24,9 @@ I am a BackEnd Developer from Chiapas.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Post"  alt="Post" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
----
-
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+  
+---
 
 ### :bar_chart: My Stats: :chart_with_upwards_trend:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=203722&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
