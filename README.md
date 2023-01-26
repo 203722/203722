@@ -15,9 +15,8 @@
 I am a BackEnd Developer from Chiapas.
 
 ---
-<div>
 ### :computer_mouse::computer: Languages and Tools :
-  
+  <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
