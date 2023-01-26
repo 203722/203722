@@ -34,7 +34,7 @@ I am a BackEnd Developer from Chiapas.
 ### :bar_chart: Top Langs: :tongue:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=203722&langs_count=10&theme=tokyonight&layout=compact" alt="203722 :: Top Langs" /></p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 
 ---
 
