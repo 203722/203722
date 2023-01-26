@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  ![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   <h1>
     HELLO WORLD!
