@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  ![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   <h1>
     HELLO WORLD!
@@ -27,6 +26,7 @@ I am a BackEnd Developer from Chiapas.
 
 ---
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 ### :bar_chart: My Stats: :chart_with_upwards_trend:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=203722&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
