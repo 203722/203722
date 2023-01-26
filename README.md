@@ -29,9 +29,12 @@ I am a BackEnd Developer from Chiapas.
 ---
 
 ### :bar_chart: My Stats: :chart_with_upwards_trend:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=203722&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=203722&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=203722&langs_count=10&theme=tokyonight&layout=compact" alt="203722 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=203722&show_icons=true&theme=synthwave" alt="203722 :: Profile Stats" /></p>
 
 ---
 
