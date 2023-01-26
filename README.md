@@ -29,12 +29,10 @@ I am a BackEnd Developer from Chiapas.
 ---
 
 ### :bar_chart: My Stats: :chart_with_upwards_trend:
-
-<h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=203722&langs_count=10&theme=tokyonight&layout=compact" alt="203722 :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=203722&show_icons=true&theme=synthwave" alt="203722 :: Profile Stats" /></p>
+  
+### :bar_chart: Top Langs: :tongue:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=203722&langs_count=10&theme=tokyonight&layout=compact" alt="203722 :: Top Langs" /></p>
 
 ---
 
