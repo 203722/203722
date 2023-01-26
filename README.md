@@ -10,8 +10,8 @@
   </h1>
 </div>
 <div align="center">
+  
 ---
-
 ### :technologist: About Me:
 :id: ADRIAN BATALLA
   
